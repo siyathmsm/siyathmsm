@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me Siyath MSM
 
 Computer Science Student @ Rajarata University of Sri Lanka (RUSL) 📚👨‍🎓
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://siyath.netlify.app/)                                                 
 - 🌱 I’m currently learning ReactJS, .NET, SpringBoot, Node, and AI to my workflow
 - Social Presence
