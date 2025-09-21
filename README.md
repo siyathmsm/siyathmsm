@@ -2,7 +2,7 @@
 
 Computer Science Student @ Rajarata University of Sri Lanka (RUSL) 📚👨‍🎓
 - 🔭 Here's my [portfolio](https://siyath.netlify.app/)
-- Click Here [Click Me]([https://docs.google.com/forms/d/e/1FAIpQLScTF3CMQcuvOVRDKN_UwKXWYSEMFVZdt7YYk-RKAlsKS8hRgw/viewform?usp=send_form])                                                
+- Click Here [Click Me](https://docs.google.com/forms/d/e/1FAIpQLScTF3CMQcuvOVRDKN_UwKXWYSEMFVZdt7YYk-RKAlsKS8hRgw/viewform?usp=send_form)                                                
 - 🌱 I’m currently learning ReactJS, .NET, SpringBoot, Node, and AI to my workflow
 - Social Presence
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siyath-msm-45b0661b3/) • [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/siyathmsm) • [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/siyath_27/)
